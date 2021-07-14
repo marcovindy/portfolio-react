@@ -1,0 +1,8 @@
+Install React
+    1. npx create-react-app portfolio
+    2. cd portfolio
+    3. npm start
+
+Install Sass
+    1. npm install node-sass --save
+    2. rename App.css to App.scss

@@ -1,0 +1,2 @@
+to Sass file
+    @import 'styles/_colors.scss';
